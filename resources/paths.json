@@ -1,0 +1,48 @@
+{
+    "ACC": {
+        "background": "resources/ACC/background.png",
+        "cars": "resources/ACC/Cars/"
+    },
+    "F1": {
+        "background": "resources/F1/background.png",
+        "cars": "resources/F1/Cars/"
+    },
+    "starting grid": "resources/starting grid text.png",
+    "bracket": "resources/bracket.png",
+    "Universities": {
+        "Aston": "resources/Universities/Aston.png",
+        "BUSR": "resources/Universities/BUSR.png",
+        "Birmingham City": "resources/Universities/Birmingham City.png",
+        "Coventry": "resources/Universities/Coventry.png",
+        "Chichester": "resources/Universities/Chichester.jpg",
+        "Derby": "resources/Universities/Derby.jpg",
+        "DMU": "resources/Universities/DMU.png",
+        "Durham": "resources/Universities/Durham.png",
+        "Edge Hill": "resources/Universities/Edge Hill.png",
+        "Exeter": "resources/Universities/Exeter.png",
+        "Falmouth": "resources/Universities/Falmouth.png",
+        "Glasgow": "resources/Universities/Glasgow.png",
+        "Huddersfield": "resources/Universities/Huddersfield.png",
+        "Hertfordshire": "resources/Universities/Hertfordshire.png",
+        "Kent": "resources/Universities/Kent.png",
+        "King's College London": "resources/Universities/King's College London.png",
+        "Lancaster": "resources/Universities/Lancaster.png",
+        "Leicester": "resources/Universities/Leicester.png",
+        "Lincoln": "resources/Universities/Lincoln.png",
+        "London South Bank": "resources/Universities/London South Bank.png",
+        "Loughborough": "resources/Universities/Loughborough.png",
+        "Manchester": "resources/Universities/Manchester.png",
+        "Nottingham Trent": "resources/Universities/Nottingham Trent.png",
+        "Oxford Brookes": "resources/Universities/Oxford Brookes.png",
+        "Portsmouth": "resources/Universities/Portsmouth.png",
+        "Reading": "resources/Universities/Reading.png",
+        "Royal Northern College of Music": "resources/Universities/Royal Northern College of Music.png",
+        "Royal Holloway": "resources/Universities/Royal Holloway.png",
+        "Surrey": "resources/Universities/Surrey.png",
+        "Sussex": "resources/Universities/Sussex.png",
+        "UWE": "resources/Universities/UWE.png",
+        "Wrexham Glyndwr": "resources/Universities/Wrexham Glyndwr.jpg",
+        "York": "resources/Universities/York.png"
+    },
+    "Alumni": "resources/Universities/Alumni/"
+}

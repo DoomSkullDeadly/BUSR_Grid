@@ -1,0 +1,134 @@
+{
+    "Drivers": {
+        "Name": {
+            "left topline center": [
+                419,
+                390
+            ],
+            "right topline center": [
+                2139,
+                390
+            ],
+            "font size": 53,
+            "colour": [
+                249,
+                2,
+                71
+            ]
+        },
+        "Grid Position": {
+            "left topline center": [
+                419,
+                608
+            ],
+            "right topline center": [
+                2139,
+                608
+            ],
+            "font size": 96,
+            "colour": [
+                249,
+                2,
+                71
+            ]
+        },
+        "Uni": {
+            "left topline center": [
+                419,
+                1021
+            ],
+            "right topline center": [
+                2139,
+                1021
+            ],
+            "font size": 38,
+            "colour": [
+                249,
+                2,
+                71
+            ]
+        }
+    },
+    "Logos": {
+        "Car": {
+            "left center": [
+                419,
+                842
+            ],
+            "right center": [
+                2139,
+                842
+            ]
+        },
+        "Uni": {
+            "left center": [
+                823,
+                722
+            ],
+            "right center": [
+                1738,
+                722
+            ]
+        }
+    },
+    "Grid": {
+        "bracket pos 1": [
+            1055,
+            507
+            ],
+        "bracket pos 2": [
+            1306,
+            543
+        ],
+        "bracket pos 3": [
+            1055,
+            688
+            ],
+        "bracket pos 4": [
+            1306,
+            723
+            ],
+        "bracket pos 5": [
+            1055,
+            866
+            ],
+        "bracket pos 6": [
+            1306,
+            901
+        ],
+        "bracket pos 7": [
+            1055,
+            1046
+            ],
+        "bracket pos 8": [
+            1306,
+            1081
+            ],
+        "num y offset": -10,
+        "num colour": [
+            255,
+            255,
+            255
+        ],
+        "num font size": 46,
+        "name y offset": 15,
+        "name colour": [
+            249,
+            2,
+            71
+        ],
+        "name font size": 32
+    },
+    "Round Num": {
+        "center": [
+            616,
+            110
+        ],
+        "font size": 38,
+        "colour": [
+            255,
+            255,
+            255
+        ]
+    }
+}

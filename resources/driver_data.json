@@ -1,0 +1,813 @@
+{
+    "name": {
+        "uni": "uni_name",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Matthew Agius": {
+        "uni": "Kent",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Mercedes",
+            "ign": "Mattymoomoo03"
+        }
+    },
+    "Carson Tharp": {
+        "uni": "Coventry",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Red Bull",
+            "ign": "Donut_Whole"
+        }
+    },
+    "Jacob Hardwick": {
+        "uni": "Reading",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "McLaren",
+            "ign": "Dasher"
+        }
+    },
+    "James Doherty": {
+        "uni": "York",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Aston Martin",
+            "ign": "Doughy"
+        }
+    },
+    "James King": {
+        "uni": "Reading",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Alfa Romeo",
+            "ign": "jarykii"
+        }
+    },
+    "Owen Goldsmith": {
+        "uni": "Falmouth",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Red Bull",
+            "ign": "TheGamesGeek"
+        }
+    },
+    "Archie Hodgson": {
+        "uni": "Surrey",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Aston Martin",
+            "ign": "Wilson"
+        }
+    },
+    "Brandon Marr": {
+        "uni": "Exeter",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Alpine",
+            "ign": "Proc.EXE"
+        }
+    },
+    "George Smallbone": {
+        "uni": "Sussex",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Aston Martin",
+            "ign": "GWS"
+        }
+    },
+    "Anna Langsdale-Foster": {
+        "uni": "Nottingham Trent",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "734",
+            "car": "McLaren"
+        },
+        "F1": {
+            "car": "Red Bull",
+            "ign": "x7734x"
+        }
+    },
+    "Hayley Davies": {
+        "uni": "Falmouth",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Haas",
+            "ign": "Hayley"
+        }
+    },
+    "Adam Benjamin": {
+        "uni": "Hertfordshire",
+        "NSE": "NSE_name",
+        "Alumni": true,
+        "ACC": {
+            "car_num": "991",
+            "car": "Aston Martin"
+        },
+        "F1": {
+            "car": "Williams",
+            "ign": "stig991"
+        }
+    },
+    "Ed Haskell": {
+        "uni": "Edge Hill",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "456",
+            "car": "McLaren"
+        },
+        "F1": {
+            "car": "AlphaTauri",
+            "ign": "Rage"
+        }
+    },
+    "George Willcocks": {
+        "uni": "Nottingham Trent",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Williams",
+            "ign": "PyroNade"
+        }
+    },
+    "Ahmed Atcha": {
+        "uni": "Lancaster",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Ferrari",
+            "ign": "Atcha6"
+        }
+    },
+    "Ben Lewis": {
+        "uni": "Loughborough",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "Bazza"
+        }
+    },
+    "Callum Vickers": {
+        "uni": "London South Bank",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "CaL"
+        }
+    },
+    "Noah Harris": {
+        "uni": "Lancaster",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "Caltra"
+        }
+    },
+    "Ethan Elkan": {
+        "uni": "Nottingham Trent",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "456",
+            "car": "McLaren"
+        },
+        "F1": {
+            "car": "Mercedes",
+            "ign": "Chopper456"
+        }
+    },
+    "Harry Mason": {
+        "uni": "Loughborough",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Mercedes",
+            "ign": "Deadeye"
+        }
+    },
+    "Enrico Sanzeri": {
+        "uni": "King's College London",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Mercedes",
+            "ign": "enrico.vviivi"
+        }
+    },
+    "Malik": {
+        "uni": "Royal Holloway",
+        "NSE": "NSE_name",
+        "Alumni": true,
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "Genoo"
+        }
+    },
+    "Benn McIntosh": {
+        "uni": "uni_name",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "Bayonet"
+        }
+    },
+    "Saaj Sangani": {
+        "uni": "London South Bank",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Ferrari",
+            "ign": "SJTheYG"
+        }
+    },
+    "Angus Fender": {
+        "uni": "Oxford Brookes",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "9",
+            "car": "BMW"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Joe Share": {
+        "uni": "Hertfordshire",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "549",
+            "car": "Aston Martin"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Cameron Gold": {
+        "uni": "Portsmouth",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "33",
+            "car": "Lamborghini"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Umar Farooqi": {
+        "uni": "York",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "30",
+            "car": "McLaren"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Nathan Carey": {
+        "uni": "Coventry",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "10",
+            "car": "BMW"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Shane-Tyler Perkins": {
+        "uni": "Coventry",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "463",
+            "car": "Ferrari"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Josh Lodge": {
+        "uni": "Durham",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "76",
+            "car": "McLaren"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Cav Budd": {
+        "uni": "Sussex",
+        "NSE": "NSE_name",
+        "Alumni": true,
+        "ACC": {
+            "car_num": "53",
+            "car": "Honda"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Dan Hodgson": {
+        "uni": "Huddersfield",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "13",
+            "car": "Porsche"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Jason List": {
+        "uni": "Durham",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "995",
+            "car": "Ferrari"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Jason Sawford": {
+        "uni": "Royal Holloway",
+        "NSE": "NSE_name",
+        "Alumni": true,
+        "ACC": {
+            "car_num": "219",
+            "car": "BMW"
+        },
+        "F1": {
+            "car": "Williams",
+            "ign": "HamstersFTW"
+        }
+    },
+    "Adil Mushtaq": {
+        "uni": "Royal Holloway",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "12",
+            "car": "McLaren"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Penelope Dobbins": {
+        "uni": "Hertfordshire",
+        "NSE": "NSE_name",
+        "Alumni": true,
+        "ACC": {
+            "car_num": "87",
+            "car": "Honda"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Jimmy Lin": {
+        "uni": "Glasgow",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "727",
+            "car": "Lamborghini"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Juuso Helvio": {
+        "uni": "Royal Holloway",
+        "NSE": "NSE_name",
+        "Alumni": true,
+        "ACC": {
+            "car_num": "27",
+            "car": "Honda"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Alex Smith": {
+        "uni": "Birmingham City",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "37",
+            "car": "McLaren"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Jack Noller": {
+        "uni": "Oxford Brookes",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "36",
+            "car": "Honda"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Max Grime": {
+        "uni": "Royal Holloway",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "186",
+            "car": "Audi"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Thomas Gaskins": {
+        "uni": "Lincoln",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "60",
+            "car": "McLaren"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Josh Perrett": {
+        "uni": "UWE",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "24",
+            "car": "Audi"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Cavern Taylor": {
+        "uni": "Coventry",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "18",
+            "car": "Audi"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Danila Astrakhantsev": {
+        "uni": "Exeter",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "69",
+            "car": "McLaren"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Adam Lee": {
+        "uni": "Portsmouth",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "2",
+            "car": "Audi"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Connor McCullough": {
+        "uni": "Birmingham City",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "29",
+            "car": "McLaren"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Eshan Wells": {
+        "uni": "DMU",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "301",
+            "car": "Bentley"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "David Manuwa": {
+        "uni": "Coventry",
+        "NSE": "NSE_name",
+        "Alumni": true,
+        "ACC": {
+            "car_num": "44",
+            "car": "BMW"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Dimitris Tsioumanis": {
+        "uni": "Manchester",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "28",
+            "car": "Ferrari"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Shiv Bhagnari": {
+        "uni": "Sussex",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "43",
+            "car": "McLaren"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Tom Alder": {
+        "uni": "Aston",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "71",
+            "car": "Ferrari"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Jonathan Riley": {
+        "uni": "Birmingham City",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "70",
+            "car": "McLaren"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Adam Bent": {
+        "uni": "Wrexham Glyndwr",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "3",
+            "car": "Lexus"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Kishan Jethwa": {
+        "uni": "Aston",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "22",
+            "car": "Aston Martin"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Joshua Waters": {
+        "uni": "Nottingham Trent",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "666",
+            "car": "Aston Martin"
+        },
+        "F1": {
+            "car": "manufacturer",
+            "ign": "in game name"
+        }
+    },
+    "Michael Allflatt": {
+        "uni": "Leicester",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Alpine",
+            "ign": "Maddog"
+        }
+    },
+    "Alex Louch": {
+        "uni": "Portsmouth",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "AlphaTauri",
+            "ign": "alexlouch"
+        }
+    },
+    "Thomas Hughes": {
+        "uni": "Huddersfield",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Ferrari",
+            "ign": "Tomhug03"
+        }
+    },
+    "Josh Hughes": {
+        "uni": "Royal Northern College of Music",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Ferrari",
+            "ign": "AssassinJ1000"
+        }
+    },
+    "Alex Hughes": {
+        "uni": "Loughborough",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Alfa Romeo",
+            "ign": "A1pha012"
+        }
+    },
+    "Callum Teasdale": {
+        "uni": "Chichester",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Haas",
+            "ign": "Callum Teasdale"
+        }
+    },
+    "Joseph Howes": {
+        "uni": "Hertfordshire",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Williams",
+            "ign": "JH."
+        }
+    },
+    "Dilon Fernando": {
+        "uni": "Derby",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "Alfa Romeo",
+            "ign": "Dilon Fernando"
+        }
+    },
+    "Joseph Beck": {
+        "uni": "Royal Holloway",
+        "NSE": "NSE_name",
+        "ACC": {
+            "car_num": "car_num",
+            "car": "manufacturer"
+        },
+        "F1": {
+            "car": "McLaren",
+            "ign": "joe"
+        }
+    }
+}
