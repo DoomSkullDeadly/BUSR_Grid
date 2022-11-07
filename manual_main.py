@@ -8,8 +8,8 @@ from_file = True
 drivers_only = True
 oneatatime = True
 background = True
-round_num = 1
-game = 'F1'
+round_num = 4
+game = 'ACC'
 
 if from_file:
     with open("grid.txt", 'r') as f:
@@ -27,7 +27,11 @@ while True:
     else:
         got = False
         for key, values in image_gen.driver_data.items():
-            if values["F1"]["ign"].lower() == driver.lower():
+            if values["F1"]["ign"].lower() == driver.lower() and game == 'F1':
+                drivers.append(key)
+                got = True
+                break
+            elif values["ACC"]["car_num"].lower() == driver.lower() and game == 'ACC':
                 drivers.append(key)
                 got = True
                 break
